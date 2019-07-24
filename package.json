@@ -1,0 +1,11 @@
+{
+  "name": "minichat-server",
+  "version": "1.0.0",
+  "description": "A server for Minichat project",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
